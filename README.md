@@ -3,19 +3,25 @@
 
 COVID-19 é uma doença infecciosa causada pelo SARS-COV-2, um vírus da família dos coronavírus. Alguns coronavírus podem causar síndrome respiratória grave, que é o caso do SARS-COV-2.
 
-<center><img alt="Colaboratory logo" width="30%" src="https://d2dxldo5hhj2zu.cloudfront.net/img/674x,jpeg/https://d3043uog1ad1l6.cloudfront.net/uploads/2020/03/photo-1584118624012-df056829fbd0.jpeg"></center>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/78041288/147562724-b1c3cdca-cb90-496b-b476-e668f8210d83.jpg">
+</p>
 
 ## **Sintomas da COVID-19**
 
 A COVID-19 tem como principais sintomas febre, cansaço e tosse seca. Além disso, em algumas pessoas, podemos ter os seguintes sintomas: perda de paladar ou olfato, congestão nasal, conjuntivite, dor de garganta, dor de cabeça, dores nos músculos ou juntas, diferentes tipos de erupção cutânea, náusea ou vômito, diarreia, calafrios ou tonturas.
 
-<center><img alt="Colaboratory logo" width="35%" src="https://prefeitura.poa.br/sites/default/files/usu_img/coronavirus-sintomas.png"></center>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/78041288/147562768-b7991876-ba95-475b-94af-45593a7e5ded.png">
+</p>
 
 ## **Contaminação**
 
 Uma pessoa infectada pode contaminar outra ao tossir, espirrar, falar ou respirar próximo de uma pessoa, alguns artigos sugerem até um metro de distância. Dessa forma, a pessoa será infectada quando gotículas contendo o vírus entrarem em contato através dos olhos, nariz ou boca. Além disso, as pessoas também podem ser infectadas ao tocar em superfícies que foram contaminadas pelo vírus e, em seguida, tocarem em seus olhos, nariz ou boca, sem limparem as mãos.
 
-<center><img alt="Colaboratory logo" width="35%" src="https://prefeitura.poa.br/sites/default/files/usu_img/coronavirus-transmissao.png"></center>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/78041288/147562815-4be9d611-98cd-4636-8887-4500a86f700f.png">
+</p>
 
 ## **Obtenção dos dados**
 
