@@ -5,6 +5,7 @@ COVID-19 é uma doença infecciosa causada pelo SARS-COV-2, um vírus da famíli
 
 <p align="center">
 <img src="https://www.crfes.org.br/wp-content/uploads/2020/01/v%C3%ADrus-png-3.png">
+ width="30%"
 </p>
 
 ## **Sintomas da COVID-19**
