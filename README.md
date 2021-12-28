@@ -33,7 +33,7 @@ Com o objetivo de elevar a consciência situacional a respeito do COVID-19 no Mu
 
 ## Mundo
 
-### -Países com maior número de casos
+### * Países com maior número de casos
 
 ![download](https://user-images.githubusercontent.com/78041288/147552868-9476dbad-86b8-4716-8e28-4db54e56573a.png)
 
