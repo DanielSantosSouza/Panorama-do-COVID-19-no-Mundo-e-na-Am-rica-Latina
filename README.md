@@ -4,7 +4,7 @@
 COVID-19 é uma doença infecciosa causada pelo SARS-COV-2, um vírus da família dos coronavírus. Alguns coronavírus podem causar síndrome respiratória grave, que é o caso do SARS-COV-2.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/78041288/147562724-b1c3cdca-cb90-496b-b476-e668f8210d83.jpg">
+<img src="https://www.crfes.org.br/wp-content/uploads/2020/01/v%C3%ADrus-png-3.png">
 </p>
 
 ## **Sintomas da COVID-19**
