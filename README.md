@@ -9,11 +9,13 @@ COVID-19 é uma doença infecciosa causada pelo SARS-COV-2, um vírus da famíli
 
 A COVID-19 tem como principais sintomas febre, cansaço e tosse seca. Além disso, em algumas pessoas, podemos ter os seguintes sintomas: perda de paladar ou olfato, congestão nasal, conjuntivite, dor de garganta, dor de cabeça, dores nos músculos ou juntas, diferentes tipos de erupção cutânea, náusea ou vômito, diarreia, calafrios ou tonturas.
 
+<center><img alt="Colaboratory logo" width="35%" src="https://prefeitura.poa.br/sites/default/files/usu_img/coronavirus-sintomas.png"></center>
+
 ## **Contaminação**
 
 Uma pessoa infectada pode contaminar outra ao tossir, espirrar, falar ou respirar próximo de uma pessoa, alguns artigos sugerem até um metro de distância. Dessa forma, a pessoa será infectada quando gotículas contendo o vírus entrarem em contato através dos olhos, nariz ou boca. Além disso, as pessoas também podem ser infectadas ao tocar em superfícies que foram contaminadas pelo vírus e, em seguida, tocarem em seus olhos, nariz ou boca, sem limparem as mãos.
 
-<center><img alt="Colaboratory logo" width="15%" src="https://www.cassi.com.br/coronavirus/style/images/art/sint3.png"></center>
+<center><img alt="Colaboratory logo" width="35%" src="https://prefeitura.poa.br/sites/default/files/usu_img/coronavirus-transmissao.png"></center>
 
 ## **Obtenção dos dados**
 
