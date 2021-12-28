@@ -23,7 +23,7 @@ Uma pessoa infectada pode contaminar outra ao tossir, espirrar, falar ou respira
 <img src="https://user-images.githubusercontent.com/78041288/147562815-4be9d611-98cd-4636-8887-4500a86f700f.png">
 </p>
 
-## **Obtenção dos dados**
+# **Obtenção dos dados**
 
 Os dados foram obtidos em um repositório com os dados do COVID-19 no mundo e nele, podemos obter informações relacionadas a casos confirmados, mortalidade, hospitalizações e admissões em Unidades de Terapia Intensiva (UTI), testes e positividade e diversas outras informações.
 
